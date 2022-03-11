@@ -10,7 +10,7 @@
 | :two:  | [moodle](https://github.com/uontario/config-grain-moodle)             | [LMS (Learning Management System)](https://github.com/uontario/LMS) du VRER             | [moodle.uof.ca](https://moodle.uof.ca) | <img src="https://img.icons8.com/clouds/100/000000/server.png" width=30 height=30 /> |
 | :three:| [bibliotheque](https://github.com/uontario/config-grain-bibliotheque) | Base de données de la Bipliotheque                   | [bibliotheque.uof.ca](https://bibliotheque.uof.ca) | <img src="https://img.icons8.com/clouds/100/000000/server.png" width=30 height=30 /> |
 | :four:| [mon](https://github.com/uontario/config-grain-mon)                    | Site d'aide aux étudiants.                           | [mon.uof.ca](https://mon.uof.ca) | <img src="https://img.icons8.com/clouds/100/000000/server.png" width=30 height=30 /> |
-| :ab:| [admin ClusterAPI](https://github.com/uontario/config-grappe-admin)      | Site gérant les grappes Kubernetes :wheel_of_dharma:  | [mon.uof.ca](https://mon.uof.ca) | <img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-lan-technology-prettycons-flat-prettycons.png"/> |
+| :ab:| [admin ClusterAPI](https://github.com/uontario/config-grappe-admin)      | Site gérant les grappes Kubernetes :wheel_of_dharma:  | [stp.uof.ca](https://stp.uof.ca) | <img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-lan-technology-prettycons-flat-prettycons.png"/> |
 
 
 ### :gear: Type de Machines
