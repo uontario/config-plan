@@ -14,5 +14,5 @@
 ### :gear: Type de Machines
 | Type | Description | Commentaires |
 |------|-------------|--------------|
-|  <img src="https://img.icons8.com/offices/30/000000/dns.png" width=30 height=30 />   | Zone DNS | Zone crée avec [Terraform](https://www.terraform.io) | 
-| <img src="https://img.icons8.com/clouds/100/000000/server.png" width=50 height=50 /> | VM |
+|  <img src="https://img.icons8.com/offices/30/000000/dns.png" width=20 height=20 />   | Zone DNS | Zone crée avec [Terraform](https://www.terraform.io) | 
+| <img src="https://img.icons8.com/clouds/100/000000/server.png" width=20 height=20 /> | VM | |
