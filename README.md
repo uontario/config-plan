@@ -15,7 +15,7 @@
 | :seven:| |||
 | :eight:| |||
 | :nine:| |||
-| :one::zero:| [Mon Portail](https://github.com/uontario/config-grain-mon-portail) | Portail des étudiants| :warning: En cours | à définir | 
+| :one::zero:| [Mon Portail](https://github.com/uontario/config-grain-mon-portail) | Portail des étudiants| :warning: En cours | :question: | 
 | :b: | [IDaaS](https://github.com/uontario/IDaaS)      | :id:entity as a Service  | [Azure AD](https://portal.azure.com) | <img src="https://img.icons8.com/external-flat-geotatah/64/000000/external-identity-sensorization-of-things-flat-flat-geotatah.png" width=30 height=30 />  |
 | :ab:| [admin ClusterAPI](https://github.com/uontario/config-grappe-admin)      | Site gérant les grappes Kubernetes :wheel_of_dharma:  | [stp.uof.ca](https://stp.uof.ca) | <img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-lan-technology-prettycons-flat-prettycons.png" width=30 height=30 /> |
 
