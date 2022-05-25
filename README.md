@@ -11,7 +11,7 @@
 | :three:| [bibliotheque](https://github.com/uontario/src-bibliotheque) | Base de données de la Bibliotheque                   | [bibliotheque.uof.ca](https://bibliotheque.uof.ca) | <img src="https://img.icons8.com/clouds/100/000000/server.png" width=30 height=30 /> |
 | :four:| [mon](https://github.com/uontario/config-grain-mon)                    | Site d'aide aux étudiants.                           | [mon.uof.ca](https://mon.uof.ca) | <img src="https://img.icons8.com/clouds/100/000000/server.png" width=30 height=30 /> |
 | :five:| [mahara](https://github.com/uontario/config-grain-mahara)              | Portfolio du VRER                                    | [mahara.uof.ca](https://mahara.uof.ca) | <img src="https://img.icons8.com/clouds/100/000000/server.png" width=30 height=30 /> |
-| :six:| |||
+| :six:| [koha](https://github.com/uontario/config-grain-koha)             | [ILS (Integrated Library System)](https://github.com/uontario/ILS) du VRER             |||
 | :seven:| |||
 | :eight:| |||
 | :nine:| |||
